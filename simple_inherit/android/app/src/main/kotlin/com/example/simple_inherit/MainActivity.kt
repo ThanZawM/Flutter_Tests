@@ -1,4 +1,4 @@
-package com.example.flutter_app
+package com.example.simple_inherit
 
 import io.flutter.embedding.android.FlutterActivity
 

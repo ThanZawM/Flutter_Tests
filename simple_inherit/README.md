@@ -1,6 +1,6 @@
-# flutter_app
+# simple_inherit
 
-A new Flutter application.
+A new Flutter project.
 
 ## Getting Started
 
